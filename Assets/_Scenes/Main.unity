@@ -287,7 +287,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4b0f3dfbaa078704aa28cd4fae05ffcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletFactory: {fileID: 0}
+  bulletFactory: {fileID: 487696225}
   MaxBullets: 50
 --- !u!4 &487696224
 Transform:
